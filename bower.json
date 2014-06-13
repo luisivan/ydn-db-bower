@@ -1,0 +1,26 @@
+{
+  "name": "ydndb",
+  "version": "1.0.2",
+  "homepage": "http://dev.yathit.com/",
+  "authors": [
+    "Luis Iván <me@luisivan.net>"
+  ],
+  "description": "Javascript database module for IndexedDB, WebDatabase (WebSQL) and WebStorage (localStorage) storage mechanisms supporting version migration, advanced query and transaction workflow.",
+  "moduleType": [
+    "amd",
+    "globals"
+  ],
+  "keywords": [
+    "ydn-db",
+    "indexeddb",
+    "websql"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
